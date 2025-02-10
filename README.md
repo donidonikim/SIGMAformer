@@ -20,4 +20,5 @@ pip install -r requirements.txt
 
 ```
 bash ./scripts/Global_Temp/SIGMAformer.sh
+bash ./scripts/Global_Wind/SIGMAformer.sh
 ```
