@@ -2,9 +2,11 @@
 
 ## Proposed SIGMAformer framework
 
+#### The proposed framework replaces the conventional attention mechanism with the DSTC module, which enhances spatiotemporal weather forecasting by leveraging GMM-based pattern extraction to compute and aggregate weighted temporal and spatial correlations.
+
+
 ![SIGMAformer Framework](images/framework.png)
 
-#### (a) Global distribution of weather observation stations used in the spatiotemporal weather forecasting. (b) Transformer-based forecasting framework, where the conventional attention mechanism is replaced by the proposed DSTC module. (c) The DSTC module includes two key components: temporal correlation modeling and spatial correlation modeling. These components compute weighted spatiotemporal correlations that are aggregated for the final output. (d) Detailed process of spatiotemporal correlation calculation using a GMM-based pattern extraction technique. This includes sampling, noise injection, updating the GMM, and interpolating cluster results to align with the original temporal resolution.
 
 ## Usage 
 
