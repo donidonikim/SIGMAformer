@@ -10,7 +10,7 @@
 
 ### Usage 
 
-1. Global weather datasets can be obtained from [[Google Drive]](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2?usp=sharing).
+1. Global weather datasets can be obtained from [[Google Drive]](https://drive.google.com/file/d/1zCSqH-g3XXqRRwy8PYmoWzglj-W7FmFI/view?usp=sharing).
 
 2. Install Pytorch and other necessary dependencies.
 ```
