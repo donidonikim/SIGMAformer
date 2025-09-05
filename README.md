@@ -1,4 +1,4 @@
-# SIGMAformer: A Spatiotemporal Gaussian Mixture Correlation Transformer for Global Weather Forecasting
+# SIGMAformer: A spatiotemporal gaussian mixture correlation transformer for multi-sensor weather fusion forecasting
 
 ### Proposed SIGMAformer framework
 
@@ -7,6 +7,12 @@
 
 ![SIGMAformer Framework](images/framework.png)
 
+### Highilights
+##### -	Develop SIGMAformer for global weather via multi-station spatiotemporal correlation.
+##### -	Gaussian-mixture pattern extraction (GMPE) guides adaptive temporal and spatial attention.
+##### -	Attention maps reveal regional and temporal drivers, enhancing interpretability.
+##### -	Captures short-term fluctuations, long-term trends, and near/far-station correlations.
+##### -	Delivers state-of-the-art forecasts of global temperature and wind speed compared with baselines.
 
 ### Usage 
 
