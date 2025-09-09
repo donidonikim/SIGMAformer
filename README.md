@@ -1,5 +1,8 @@
 # SIGMAformer: A spatiotemporal gaussian mixture correlation transformer for multi-sensor weather fusion forecasting
 
+
+![SIGMAformer Graphical_Abstract](images/Graphical_Abstract.jpg)
+
 ### Proposed SIGMAformer framework
 
 ##### The proposed framework replaces the conventional attention mechanism with the DSTC module, which enhances spatiotemporal weather forecasting by leveraging GMM-based pattern extraction to compute and aggregate weighted temporal and spatial correlations.
